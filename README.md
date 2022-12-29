@@ -10,4 +10,4 @@ I look forward to using this project to familiarise myself with Spring Boot whil
 * Spring Security
 * OAuth
 
-The list will keep growing as I discover more of the wonderful features Spring Boot has. 
+The list will keep growing as I discover more of the wonderful features Spring Boot has.
