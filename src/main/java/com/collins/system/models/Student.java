@@ -1,9 +1,8 @@
-package com.collins.student.models;
+package com.collins.system.models;
 
 import javax.persistence.*;
 import java.time.LocalDate;
 import java.time.Period;
-import java.util.Date;
 
 @Entity
 @Table(name = "students")

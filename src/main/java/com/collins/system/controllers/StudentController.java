@@ -1,8 +1,8 @@
-package com.collins.student.controllers;
+package com.collins.system.controllers;
 
-import com.collins.student.exceptions.ValidationFailedException;
-import com.collins.student.models.Student;
-import com.collins.student.services.StudentService;
+import com.collins.system.exceptions.ValidationFailedException;
+import com.collins.system.models.Student;
+import com.collins.system.services.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

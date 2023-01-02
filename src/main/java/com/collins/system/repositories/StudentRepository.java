@@ -1,8 +1,7 @@
-package com.collins.student.repositories;
+package com.collins.system.repositories;
 
-import com.collins.student.models.Student;
+import com.collins.system.models.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 import java.util.Optional;

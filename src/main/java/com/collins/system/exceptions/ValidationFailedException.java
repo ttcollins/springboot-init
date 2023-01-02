@@ -1,4 +1,4 @@
-package com.collins.student.exceptions;
+package com.collins.system.exceptions;
 
 public class ValidationFailedException extends  Exception {
 

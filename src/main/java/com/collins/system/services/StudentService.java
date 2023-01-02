@@ -1,8 +1,8 @@
-package com.collins.student.services;
+package com.collins.system.services;
 
-import com.collins.student.exceptions.ValidationFailedException;
-import com.collins.student.models.Student;
-import com.collins.student.repositories.StudentRepository;
+import com.collins.system.exceptions.ValidationFailedException;
+import com.collins.system.models.Student;
+import com.collins.system.repositories.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
